@@ -90,7 +90,7 @@ $ docker run vanessa/salad spoon
          
 ```
 
-For either command, you can ask for help.
+For either command, you can ask for help. 
 
 ```
 $ docker run vanessa/salad spoon --help
