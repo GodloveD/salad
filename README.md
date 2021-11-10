@@ -5,8 +5,6 @@
 
 [![asciicast](https://asciinema.org/a/160642.png)](https://asciinema.org/a/160642?speed=2)
 
-
-
 ## Local Development
 You will need to install Go, and then have this repository in your src.
 
